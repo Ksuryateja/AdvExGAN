@@ -5,7 +5,7 @@ We can make the DCGAN mimic the required distribution by tailoring the loss to o
 
 AdvExGAN is a DCGAN that generates the perturbations and  hence generates the adversarial example. AdvExGAN actually takes the original image as an input and outputs the perturbation.  
 
-This is a more simplified version of the https://github.com/joeybose/atgan. You can follow that repositary for a more detailed explanation.
+
 
 # LOSS :
 
